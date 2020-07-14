@@ -446,7 +446,6 @@
     <Content Include="pusula\js\tiltfx.js" />
     <Content Include="pusula\js\wow.min.js" />
     <Content Include="pusula\mp-index-01.html" />
-    <Content Include="pusula\mp-index-18.html" />
     <Content Include="pusula\pages-404.html" />
     <Content Include="pusula\pages-about-1.html" />
     <Content Include="pusula\pages-account.html" />
